@@ -1,17 +1,17 @@
-# flutter_application_1
+# Crochet Knitting Store
 
-A new Flutter project.
+Bu proje, el emeği örgü modellerini (saç bandı, mini etek ve çanta gibi) sergilemek için hazırladığım şık ve modern arayüze sahip bir mobil katalog / e-ticaret uygulamasıdır. Kullanıcılar ana sayfada ürünleri yan yana ikili ızgara (Grid) yapısında görebilir, ürünlerin üzerine tıklayarak detay sayfasından kullanılan tığ numarası, ip rengi gibi örgüye özel teknik özellikleri inceleyebilir.
 
-## Getting Started
+## Kullanılan Teknolojiler & Flutter Sürümü
+*   **Framework:** Flutter (3.x ve üzeri güncel SDK sürümleri)
+*   **Programlama Dili:** Dart
+*   **Özellikler:** 
+    *   Görsellerin internet üzerinden dinamik olarak çekilmesi (`Image.network`)
+    *   Responsive GridView düzeni
+    *   Uygulama genelinde uyumlu özel renk paleti (`Color(0xFF502176)` mürdüm tonu)
 
-This project is a starting point for a Flutter application.
+## Uygulama Ekran Görüntüleri
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Ana Sayfa | Ürün Detay Sayfası |
+|---|---|
+| <img src="assets/home.png" width="300"> | <img src="assets/detail.png" width="300"> |
