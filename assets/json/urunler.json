@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "isim": "Beyaz Kalpli Mavi Headband",
+    "fiyat": 250.0,
+    "aciklama": "Şirin kalp desenleriyle süslenmiş bu yumuşacık headband modelini adım adım öğrenin. Başlangıç seviyesine uygun anlatımı sayesinde kolayca örebilir, kendiniz veya sevdikleriniz için harika bir aksesuar hazırlayabilirsiniz.",
+    "gorselUrl": "https://images.unsplash.com/photo-1575881875475-3102fa97954f?w=500"
+  },
+  {
+    "id": 2,
+    "isim": "Piyano Desenli Mini Etek",
+    "fiyat": 750.0,
+    "aciklama": "Tamamen el örgüsü, şık ve dikkat çekici piyano tuşu desenli tasarım etek. Tarzınıza müzikal ve yaratıcı bir dokunuş katın.",
+    "gorselUrl": "https://images.unsplash.com/photo-1614975058789-41316d0e2e9c?w=500"
+  }
+]
