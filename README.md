@@ -14,4 +14,5 @@ Bu proje, el emeği örgü modellerini (saç bandı, mini etek ve çanta gibi) s
 
 | Ana Sayfa | Ürün Detay Sayfası |
 |---|---|
-| <img src="assets/home.png" width="300"> | <img src="assets/detail.png" width="300"> |
+| <img src="assets/login_mobil.png" width="300"> | <img src="assets/menu_mobil.png" width="300"> |
+| <img src="assets/menu_details_mobil.png" width="300">  | <img src="assets/sepet_mobil.png" width="300"> |
